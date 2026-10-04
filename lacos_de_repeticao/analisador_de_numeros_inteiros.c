@@ -70,7 +70,7 @@ int main() {
 
     }
         // Relatório que informa todas as ações e classificações pelos quais os números passaram durante o laço de repetição While.
-        // Após o laço de repetição While ser interrompido, o relatório será informado independente do usuário ter informado
+        // Após o laço de repetição While ser interrompido, o relatório aparecerá independente do usuário ter informado
         // números ou não.
         printf("\n----- RELATÓRIO -----\n");
         printf("\nQuantidade de números informados: %d\n", quantNumeros);
